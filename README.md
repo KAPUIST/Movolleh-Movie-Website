@@ -6,7 +6,7 @@
 
 ### Minutes of meeting
 
-- [팀 프로젝트 회의록 링크](https://eliotjang.notion.site/2a89927e3bc74e07b317adfa440ee9ea)
+- [팀 프로젝트 회의록 링크](https://spiffy-geometry-22c.notion.site/ef57f9c2d7944966b6c93b122443477e)
 
 ### TMDB API
 
