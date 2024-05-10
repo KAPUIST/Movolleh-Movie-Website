@@ -6,6 +6,7 @@
 
 ### Minutes of meeting
 
+- [S.A](https://spiffy-geometry-22c.notion.site/S-A-0afb905db31e4fb6a3bd48ddc30862e2?pvs=4)
 - [팀 프로젝트 회의록 링크](https://spiffy-geometry-22c.notion.site/ef57f9c2d7944966b6c93b122443477e)
 - [팀 프로젝트 대본 링크](https://drive.google.com/file/d/11_R504OA4VRHk2Fqb26lR_6jou-vqui6/view?usp=drive_link)
 - [팀 프로젝트 ppt 링크](https://drive.google.com/file/d/10cWQpLjBXfKnODRAZiD6YYZt8tijxFgC/view?usp=drive_link)
